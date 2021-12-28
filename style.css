@@ -1,0 +1,236 @@
+body{ 
+    background-color: #edf2c5;
+    margin: auto;
+    width: 1260px;
+    height: 880px;
+}
+.container {
+    width: 940px;
+    height: 880px;
+}
+.footer{
+    position: absolute;
+    width: 1264px;
+    height: 60px;
+    background-color: #778A50;
+    margin-top: 880px;
+}
+.text-1{
+    position: absolute;
+    width: 301px;
+    height: 14px;
+    margin-top: 23px;
+    margin-left: 480px;
+    font-size: 12px;
+    color: #EDF2C5;
+}
+.header{
+    position: absolute;
+    width: 940px;
+    height: 44px;
+    background-color: #778A50;
+    margin-top: 103px;
+    margin-left: 160px;
+}
+.topword{
+    position: absolute;
+    width: 271px;
+    height: 62px;
+    margin-left: 160px;
+    margin-top: 36px;
+    font-family: Arial black;
+    color: #778A50;
+    font-size: 44px;
+}
+.fb{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left: 900px;
+    margin-top: 60px;
+}
+.ig{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left: 935px;
+    margin-top: 60px;
+}
+.login:hover{
+    background-color: #f4fa82
+    ;
+}
+.join:hover{
+    background-color: #f4fa82
+    ;
+}
+.login{
+    position: absolute;
+    width: 46px;
+    height: 15px;
+    font-family: arial Bold;
+    margin-top: 60px;
+    margin-left: 981px;
+    margin-right: 226px;
+    outline: 1px solid black;
+    color: #778A50;
+    padding: 5px 7px 5px 7px;
+    text-align: center;
+    text-decoration: none;
+}
+.join{
+    position: absolute;
+    width: 35px;
+    height: 15px;
+    font-family: arial Bold;
+    margin-left: 1051px;
+    margin-top: 60px;
+    margin-right: 167px;
+    outline: 1px solid black;
+    color: #778A50;
+    padding: 5px 7px 5px 7px;
+    text-align: center;
+    text-decoration: none;
+}
+.hr{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: 60px;
+    width: 1px;
+    height: 25px;
+    background-color: #000;
+}
+.pumpkin{
+    position: absolute; 
+    width: 940px;
+    height: 488px; 
+    margin-left: 160px;
+    margin-top: 160px;
+}
+.home{
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    margin-left: 190px;
+    margin-top: 113px;
+    font-family: arial black;
+    color: #edf2c5;
+}
+.about{
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    margin-left: 301px;
+    margin-top: 113px;
+    font-family: arial black;
+    color: #edf2c5;
+}
+.vegetable{
+    position: absolute;
+    width: 98px;
+    height: 23px;
+    margin-left: 441px;
+    margin-top: 113px;
+    font-family: arial black;
+    color: #edf2c5;
+}
+.online{
+    position: absolute;
+    width: 56px;
+    height: 23px;
+    margin-left: 599px;
+    margin-top: 113px;
+    font-family: arial black;
+    color: #edf2c5;
+}
+.contact{
+    position: absolute;
+    width: 69px;
+    height: 23px;
+    margin-left: 715px;
+    margin-top: 113px;
+    font-family: arial black;
+    color: #edf2c5;
+}
+.col:hover{
+    font-size: 16px;
+    font-weight: 900;
+    color: #d6dbaa;
+    
+}
+.tophold:hover{
+    border: 1px solid #778A50;
+    background-color: #EDF2C5;
+    font-size: 12px;
+    font-family: arial black;
+    color: #778A50;
+}
+.cba{
+    position: absolute;
+    width: 444px;
+    height: 45px;
+    margin-top: 645px;
+    margin-left: 160px;
+    background-color: #778A50;
+}
+.text1{
+    position: absolute;
+    width: 98px;
+    height: 23px;
+    font-family: arial black;
+    color: #EDF2C5;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.abc{
+    position: absolute;
+    width: 444px;
+    height: 45px;
+    margin-top: 645px;
+    margin-left: 656px;
+    background-color: #778A50;
+}
+.text2{
+    position: absolute;
+    width: 69px;
+    height: 23px;
+    font-family: arial black;
+    color: #EDF2C5;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.fruit{
+    display:flex;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    margin-top: 705px;
+    margin-left: 160px;
+    gap:12px;
+}
+.context{
+    position: absolute;
+    width: 444px;
+    height: 140px;
+    margin-top: 705px;
+    margin-left: 656px;
+    background-color: #F7FBDA;
+}
+.tex1{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.tex2{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 15px;
+}
+.cline{
+    position: absolute;
+    width: 414px;
+    height: 1px;
+    background-color: #7D7D7D;
+    margin-top:74px ;
+    margin-left: 15px;
+}
